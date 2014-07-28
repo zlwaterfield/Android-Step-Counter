@@ -1,6 +1,6 @@
 # Android Step Counter
 
-Android Step Counter is a simple app that will count steps from an algorithm using accerlormeter data 
+Android Step Counter is a simple app that will count steps from an algorithm using accelerometer data 
 
 On screen the app displays:
 * Current count for steps
